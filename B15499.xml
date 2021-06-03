@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nabals arraignment: or, a Christmasse chrvle. Delivered in a sermon in the cathedrall church in Norvvich, the 9. of Ianuary, 1630. / By Tho. Reeve ...</title>
+            <author>Reeve, Tho. (Thomas), 1583 or 4-1651</author>
+         </titleStmt>
+         <extent>Approx. 63KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15499</idno><idno type="EEBO-CITATION">48469964</idno>
+  <idno type="VID">178330</idno>
+  <idno type="EEBO-PROQUEST">2240921737</idno>
+  <idno type="STC">STC 20834</idno>
+  <idno type="STC">ESTC S118921</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15499)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178330)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1475-1640 ; 1581:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nabals arraignment: or, a Christmasse chrvle. Delivered in a sermon in the cathedrall church in Norvvich, the 9. of Ianuary, 1630. / By Tho. Reeve ...</title>
+                  <author>Reeve, Tho. (Thomas), 1583 or 4-1651</author>
+               </titleStmt>
+               <extent>[7], 64 [i.e. 24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Avgvstine Mathevves, for Iohn Grismond, and are to be sold by Edvvard Martin ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1632.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:178330:1"/>
+            <pb facs="tcp:178330:1"/>
+            <p>NABALS Arraignement: <hi>OR</hi> A CHRISTMASSE-CHVRLE.</p>
+            <p>Delivered in a Sermon in the Ca<g ref="char:EOLhyphen"/>thedrall Church of NORVVICH, the 9. of Ianuary, 1630.</p>
+            <p>
+               <hi>By</hi> THO. REEVE, <hi>Minister of Gods Word at</hi> COLEBY <hi>in</hi> NORFOLKE.</p>
+            <p>LONDON, Printed by AVGVSTINE MATHEVVES, for IOHN GRISMOND, and are to be sold by EDVVARD MARTIN of <hi>Norwich.</hi> 1632.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:178330:2"/>
+            <pb facs="tcp:178330:2"/>
+            <head>TO ALL THE ANCI<g ref="char:EOLhyphen"/>ENT NOBILITY, AND GEN<g ref="char:EOLhyphen"/>TRY OF THE KINGDOME, THE honour of Charity here, and the hap<g ref="char:EOLhyphen"/>pinesse of Charity here<g ref="char:EOLhyphen"/>after.</head>
+            <opener>
+               <salute>Right Honourable, Right Worshipfull,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y motion is for Charity, for that which is the lustre of profession, the ornament of high birth; for this have your Fore-fathers left vnto you their armes, and their possessions: this is that which will send honour into their Tombes, and make their herses (as it were) cast forth yet a kind of fragrancy; charity legitimates you in your pedigrees, and causes the world to acknowledge that ye like true heires enjoy their means, not having cut off the entayle; by this the hearts of friends approve of you, and the mouthes of <hi>Adversaries</hi> are stopt. Shall <hi>Pa<g ref="char:EOLhyphen"/>pists</hi> have the preheminence of vs in any vertue, or especially get the fore hand of vs in Charity? no, de<g ref="char:EOLhyphen"/>clare that pure obedience can draw as free bounty from you, as the <hi>Allective</hi> of Merit did from them; our Religion as it hath blowne vp the dying coales vpon the Altar, so it hath not put out the fire in your Kitchins, though the Rood-loft be downe, that there need no prayers to <hi>Saints,</hi> yet Charities box was ne<g ref="char:EOLhyphen"/>ver
+<pb facs="tcp:178330:3"/>pluckt vp, that ye should neglect the prayers of the poore; wee have not beene so mindfull of Divi<g ref="char:EOLhyphen"/>nity, that we have thrust by humanity; or beene so earnest to restore the primitive piety, that wee have forgotten the ancient pitty; no, we have made faith speake, that before was tongue-tyed with ignorance, and commanded her to worke, lest the world should thinke wee have removed an <hi>Idiot,</hi> and brought in a sluggard; wee looke that the bread of life may bee broken in our Temples, and the bread of compassion in our Halls, wee would have a famine of neither; whatsoever was bad in Popery, we have swept it in<g ref="char:EOLhyphen"/>to the sinke, whatsoever was good, wee desire to re<g ref="char:EOLhyphen"/>taine it with greater honour in the family; wee wish the old Basket of Hospitality were made wider, and that the Foundations of <hi>Almes-houses</hi> were layde a pearch longer, and a yeare sooner; we loath, rebuke, condemne Covetousnesse, if wee cannot reforme it, yet our disciplining blowes are seene vpon the back of it.</p>
+            <p>Oh then ye Honourable, and Noble Personages, poore mens Wonders, and the Lands Beauties, be as enclined to Charity, as ye are enabled to it; it is the Crest of your Religion, it is engraven into your Armes; Looke daily vpon that which your Fathers bestowed vpon pious vses, as vpon their pictures or linages; be enamoured on their vertues, be ambiti<g ref="char:EOLhyphen"/>ous of their praises. Carry your selves favourably to your Tenants, or else <hi>Nicippus</hi> Ewe shall seeme to have brought forth a Lyon, and be constant <hi>Fosterers</hi> of the poore, lest ye blot out the very memories of your famous Progenitours. Looke vp to that heaven
+<pb facs="tcp:178330:3"/>where they now shine, and behold the staves of that Ladder by which they ascended; Make a solemne search for their old Accounts, and let your propor<g ref="char:EOLhyphen"/>tion of Charity not be inferiour to their yearely ex<g ref="char:EOLhyphen"/>pences, that ye finde there they bestowed vpon the poore; they purchased your lands for you, built for you those magnificent structures, spent much in those dayes in warres, and yet scanted not their workes of mercy; ye then which have all these things provided for you, and are eased of many of these cares and charges, and perhaps have new honours conferred vpon you, why should not ye equal them in bounty? Oh therefore whether ye attend at Court, or reside in the Country with vertuous <hi>Iob,</hi>
+               <note place="margin">Iob 31.</note>
+               <hi>Eate not your mor<g ref="char:EOLhyphen"/>sels alone.</hi>
+            </p>
+            <p>And ye the auncient Gentry of our Kingdome, whom your Fathers have made generous, degenerate not from them; why carry ye their bloud in your veines, or put their honours into your birth-rights, if ye will not imitate them? The Country rang, and the Kingdome ecchoed with their Bounty, and why should not ye their successours labour to be magni<g ref="char:EOLhyphen"/>fied with them? It is the Monster of speech and pra<g ref="char:EOLhyphen"/>ctise to heare, or see, that House-keeping should bee out of fashion; No, this is to have faith and fame out of fashion, and to have nothing put into fashion, but basenesse, and penuriousnesse; Keepe your standing Houses therefore in the Countrey, and be not Dor-mice in Cities; are not those aun<g ref="char:EOLhyphen"/>cient Families straightned? then neither let the olde Hospitality be, Your Fore-fathers were not so la<g ref="char:EOLhyphen"/>uish to erect those large buildings onely for <hi>Passen<g ref="char:EOLhyphen"/>gers</hi>
+               <pb facs="tcp:178330:4"/>to gaze on, nor of such abject spirits to raise vp such magnificent edifices for Farmers to roost in; No, they were reared vp for you to have Receptacles of honour in your Countries, and to bee fitted with Mansions for Charity, if ye would not starve Cha<g ref="char:EOLhyphen"/>rity for maintenance. To come therefore to those houses onely to receive Rents, or to feast with your Neighbour Gallants, were to give the shoulder to Charity, and to put the scorne vpon all your Proge<g ref="char:EOLhyphen"/>nitours worthy purposes. By all the reverence ther<g ref="char:EOLhyphen"/>fore that ye beare to your Auncestours memories, by all the comfort that ye take in their vertuous acti<g ref="char:EOLhyphen"/>ons, yea, by the renowne that ye desire to professi<g ref="char:EOLhyphen"/>on, and by the rewards that ye hope for in heaven, carry I beseech you an exact resemblance of them in their <hi>Almes-deedes,</hi> lest ye hold along with them in a long line of descent, till the day of judgement, but then come to part at the Throne. Thus wishing that Charity once againe may lift vp her old bright brow in the Nation, I rest as</p>
+            <closer>
+               <signed>
+                  <hi>The faithfull, and vnfayned admirer and obseruer of all true Nobility, and Gentry.</hi> THO: REEVE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="41" facs="tcp:178330:4"/>
+            <head>NABALS ARRAIGNEMENT: <hi>OR,</hi> A CHRISTMASSE-CHVRLE.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1. SAM. 25.10.</hi>
+                  </bibl>
+                  <p>Shall I then take my bread, and my water, and my flesh that I haue killed for my shearers, and giue it vnto men whom I know not whence they be.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>Ho can touch <hi>Nabal,</hi> but hee must looke for a sowre brow? <hi>Earth<g ref="char:EOLhyphen"/>wormes</hi> cannot endure to heare their owne names; to reprehend covetousnesse then it is dangerous, yet necessary; for when the poore are ready to famish, and that in peace, as in a siege, it is time for the Minister to call for mercy. I grieue ouer all sinners, but I detest the gripple Worldling, that same <hi>Deuill with the Iron head,</hi>
+               <note place="margin">Turquet.</note> as the <hi>Mores</hi> of <hi>Filix</hi> called
+<pb n="42" facs="tcp:178330:5"/>the <hi>Marques</hi> of <hi>Ʋelez;</hi> who whentreasures had need to be cast into the open streets, keeps them with warders within the compasse of his owne thre shold; who when the long Table of our renowned forefathers had need to be set vp in euery hall, keeps his feastes at the round boord with him<g ref="char:EOLhyphen"/>selfe and his company; hee knowes for whom hee makes ready his prouision, for them whom he knowes to haue a relation to him, not for them whom he knowes not whence they are; like <hi>Nabal</hi> here, <hi>Shall I then take my Bread, and my Water, and my Flesh, and giue it vnto men whom I know not whence they are?</hi>
+            </p>
+            <p>Amongst <hi>Davids</hi> sorrowes, <hi>Nabals</hi> vnkindnesse is inser<g ref="char:EOLhyphen"/>ted for one; and it is no small misery in misery to meete with Churles,
+<note place="margin">
+                  <hi>Vermes luto obvoluti.</hi> Chry. <hi>him.</hi> 22. <hi>de vanit. et brev. vitae.</hi>
+               </note> who are nothing but <hi>Wormes couered ouer with dirt. Nabal</hi> was one of them; and that as wee vse to say, <hi>Primae impressionis,</hi> of the deepest stampe; for how cour<g ref="char:EOLhyphen"/>teously is he here saluted by <hi>David?</hi> Aske him in my name how he doeth, verse. 5, what welfare is wished vnto him? <hi>Peace be vnto thee, and peace be to thy house, and peace bee to all that thou hast, verse</hi> 6. How is hee vrged with the Law of gratitude? <hi>Thy sheepheards were with vs, we hurted them not, neither was there ought missing vnto them, all the while they were in Carmell, verse</hi> 7. How is he pressed but with a rea<g ref="char:EOLhyphen"/>sonable demand? <hi>Giue I pray thee any thing that comes to thy hand, to thy seruants, and to thy sonne Dauid.</hi> Yet what doth all this worke from <hi>Nabal?</hi> bountifull reliefe no doubt, see it, verse 10. <hi>Quis est Dauid? quis filius Ishai? Who is this Da<g ref="char:EOLhyphen"/>uid? Who is this sonne of Ishai?</hi> hee turnes him off with a <hi>Quis;</hi> yea, and marke further, <hi>There be many seruants now a dayes, that breake away euery man from his Master. Nabal</hi> is a liberall man, but it is of his speech, and that as good as can droppe from the lippes of <hi>Nabal.</hi> Well in conclusion, what will he doe? give a hundred reasons, rather then two mites; he hath <hi>bread, water and flesh,</hi> but not to part with<g ref="char:EOLhyphen"/>all for fine wordes; they are his <hi>shearers</hi> that he lookes vp<g ref="char:EOLhyphen"/>on with a broad eye, he knowes not <hi>Dauid,</hi> and such com<g ref="char:EOLhyphen"/>pany. <hi>Shall J then take my bread, water and flesh, &amp;c.</hi>
+            </p>
+            <div type="part">
+               <pb n="43" facs="tcp:178330:5"/>
+               <head>Shall?</head>
+               <p>
+                  <hi>Nabal</hi> will expostulate vpon the businesse; though not exhibit, yet expostulate; though not part with a crumme, yet speake with the mouth of distrust and disdaine. <hi>Shall?</hi> Next, <hi>Shall I.</hi> Though other men may be brought to condiscend to such things, yet thinke ye to haue me at com<g ref="char:EOLhyphen"/>mand? Greatnesse must be taken notice of, and priuiledged euen for the golden trappings; misery is too bold there to aske any thing, <hi>Shall I?</hi> Againe (saith <hi>Nabal</hi>) that which thou expectest is a great matter, <hi>Bread, Water, and Flesh. Nabal,</hi> summes vp the gift to the height; though but <hi>Bread, Water;</hi> and a little <hi>Flesh,</hi> yet it seemes a matter of moment to bee spent in charity. Besides (saith <hi>Nabal</hi>) I have a lawfull excuse to detaine it, <hi>I haue killed it for my shearers.</hi> Cove<g ref="char:EOLhyphen"/>tousnesse neuer wants her subtile pretences. Further (saith <hi>Nabal</hi>) yee are such persons, as <hi>I know not whence ye are.</hi> Not know whence they are, and yet had done so many courtesies for him lately in <hi>Carmel?</hi> Oh see how <hi>Nabals</hi> ingratitude can dry vp an Ocean of fauours in a bubble, and cast vp the totall summe of a million of good turnes into a cipher; he hath spunged out the memory of all <hi>Dauids</hi> kind<g ref="char:EOLhyphen"/>nesse, and though not long since hee had ventured limbe, and life for his welfare, yet vpon vrging of requitall, hee is ready to call him to his face, impudent. Expressely thus, <hi>Dauid</hi> is now in distresse, and so may hee bee for all <hi>Nabal,</hi> he <hi>knowes him not;</hi> Persons in misery are ever strangers, ne<g ref="char:EOLhyphen"/>cessity hath but small acquaintance in the World; whomso<g ref="char:EOLhyphen"/>euer <hi>Nabal</hi> knew exactly, yet these distressed men he knows not <hi>whence they are, Shall J then, &amp;c.</hi> Let vs come to the division of the words,
+<list>
+                     <item>1. <hi>Shall,</hi> with a bitternesse.</item>
+                     <item>2. <hi>I,</hi> with an haughtinesse.</item>
+                     <item>3. <hi>Bread, Water and Flesh,</hi> with a poysing.</item>
+                     <item>4. <hi>Which I haue killed for my shearers,</hi> with an evasion,</item>
+                     <item>5. <hi>And giue it vnto men whom I know not whence they bee,</hi> with a cleauly discarding.</item>
+                  </list>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="44" facs="tcp:178330:6"/>
+               <head>Shall?</head>
+               <p>First,
+<label type="milestone">
+                     <seg type="milestoneunit">Doct </seg>
+                  </label>
+                  <hi>Shall,</hi> with a bitternesse. From whence obserue that the tart veine belonges to the Worldling,
+<note place="margin">Ephe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 4.32. Iames 3.17. Gal. 5.24. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Religion teacheth vs no such amarulency; no, <hi>Be yee courteous one to another. The wis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dome that descendeth from aboue is gentle. They which are Christs, haue crucified the flesh with the passions thereof. Passi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ns</hi> I know in themselues are not euill, so they bee ordered by reason; <hi>Ira, W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ath</hi> is put amongst the af<g ref="char:EOLhyphen"/>fections, and as lawfull as joy, or love, or feare, or hope, or any of the rest.
+<note place="margin">Ira per zelum.</note> There is a <hi>zealous wrath,</hi> when a man is in<g ref="char:EOLhyphen"/>censed for things noxious, &amp; apparent, and this is laudable; but when men make indignation an humour, and asperitie, is euen as common as speech it selfe,
+<note place="margin">Charles 5. <hi>in admon to</hi> Phil. 2.</note> this is to be a <hi>Slane to passions:</hi> What more seemely in man, then humanity? let a man deprive himselfe of that, and what is hee then but a wilde beast? the froward affections belong to the wicked, as to <hi>Nabal</hi> here,
+<label type="milestone">
+                     <seg type="milestoneunit">Ʋse. </seg>
+                  </label>
+                  <hi>Shall.</hi> This serues to reproue the rough language, or rather the dog eloquence of the times. For ma<g ref="char:EOLhyphen"/>ny there are, that speake in no other phrase then snarling; propound a question, the answere is rage; they are like the beast that is on all sides prickles.
+<note place="margin">
+                     <hi>Totus Esch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nus asper. Adag.</hi> Prou. 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.18. <hi>Vt vinum austerum non est aptum pot<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ons, sic mores agrestes &amp;c.</hi> Prou. 16.24.</note>
+                  <hi>There is that speaketh words like the pricking of a sword:</hi> they fight not at foyles, but at sharpe. But o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, learne more moderation of spe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch, for as <hi>Socrates</hi> was wont to say, <hi>As sharpe wine is not fit for tast, so harsh manners are not fit for conuerse.</hi> Morosity is one of the greatest enemies to all the horr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iticall vertues <hi>Faire wordes are as an hony-combe, sweetenesse to the soule, health to the bones.</hi> Away therefore with all <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owre, peeuish, Satur<g ref="char:EOLhyphen"/>nine dispositions; if thou beest earnest, bee deepely, and justly incensed, not vpon euery occasion tetricall; for that were like <hi>Nabal</hi> here, who is no sooner spo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en to, but hee casteth balles of wild-fire. <hi>Shall</hi> saith <hi>Nabal?</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Shall?</head>
+               <p>
+                  <hi>Shall?</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>
+                  </label> From hence further obserue that Checkes are worldlings almes. They not onely not satisfie the demand
+<pb n="45" facs="tcp:178330:6"/>but giue the deniall with a kind of vnkindnesse.
+<note place="margin">
+                     <hi>Lingua infir<g ref="char:EOLhyphen"/>mi quae infectae est cholerico &amp; amar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> humore non potest per<g ref="char:EOLhyphen"/>cipere a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>quid aul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e, &amp;c.</hi> Tho Aq. 1. q. 75. art. 2. Pro. 19.7.</note> The tongue of a sicke man being touched with choler, or some other sharpe humour can tast nothing sweet, but all things seeme bitter; So to a heart touched with couetousnesse no request seemes pleasing, but all offensiue; such are vpon termes of defiance vpon euery charitable motion; the whispering of an almes is vnto them as the challenging of the field. They pursue them with words, yet are they wanting to them. Let not persons in necessity aske any thing there, for if they doe, <hi>Nabals</hi> winter-face is soone discerned, and a nest of scritch-owles seeme to come out of the lippes. <hi>The poore speaketh with prayers, and the rich answereth roughly.</hi>
+                  <note place="margin">Pro. 18.23.</note> They braue vpon men in their misery, they turne the key vpon them with a contumely, and banish them away with a chafe. <hi>Shall saith Nabal?</hi>
+               </p>
+               <p>This serues to send home the scornes of worldlings to their owne thresholds with ignominy; for can they hold their hands, and not their tongues? must they needs bee putting the varlet vpon men in misery? and bee telling of them a tale of statute-lace? Speeches more bitter, then their misery it selfe to bee indured; no, away with all re<g ref="char:EOLhyphen"/>proachfull, taunting language.
+<note place="margin">
+                     <hi>Si nihil habes Colla<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hryma.</hi> Greg. Naz. <hi>Crudelis in re aduersa est ob<g ref="char:EOLhyphen"/>iurgatio</hi> Pub. Ecclus 4.2.3.5.8.</note>
+                  <hi>If thou hast nothing to giue a poore man giue him thy teares,</hi> but if thou canst giue much and wilt giue nothing yet giue him not surly vsage. No, <hi>Re<g ref="char:EOLhyphen"/>proofe in the time of aduersity is no other then cruelty.</hi> Pro<g ref="char:EOLhyphen"/>voke not a man in his distresse, adde not more trouble to a heart that is afflicted, <hi>Turne not away thine eye from the nee<g ref="char:EOLhyphen"/>dy, giue him no occasion to curse thee, Let it not grieue thee to bow downe thine eare to the poore, and giue him a friend<g ref="char:EOLhyphen"/>ly answere with meckenesse</hi> Hee is harsh indeed, which in stead of releening the wants of his brethren sends a storme after them; like <hi>Nabal</hi> heere, <hi>Giue I pray thee any thing that comes to thy hand</hi> saith <hi>Dauid, Shall</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aith <hi>Nabal?</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>I?</head>
+               <p>Next, <hi>I?</hi> with an haughtinesse.
+<label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>
+                  </label> From hence ob<g ref="char:EOLhyphen"/>serue that worldlings by th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir riches plead nothing but pri<g ref="char:EOLhyphen"/>viledge;
+<pb n="46" facs="tcp:178330:7"/>that whereas being most able, they should be most willing to doe good,
+<note place="margin">Mat. 23.4.</note> they turne off this to their inferiours; as if they would be as ill <hi>Common-wealths-men,</hi> as some are <hi>Pulpit-men,</hi>
+                  <note place="margin">Pro 18.11.</note>
+                  <hi>laying heauy burthens vpon other mens shoulders, but not touching them with one of their singers themselues. The rich mans goods are his strong confidence, and as an high wall in in his owne imagination,</hi> euen to fence him from all sort of payments. <hi>Worldlings</hi> thinke themselues of too Noble a breeding to beare burthens, no, preserve them for foote<g ref="char:EOLhyphen"/>cloth horses to pace the streets in pompe, but lay no charg<g ref="char:EOLhyphen"/>able loades on their backes; no, that's but servile worke, and they would haue it left to the sumpter-horses of the times. <hi>Nabal</hi> here perhaps would haue beene contented, that other men might have releeued <hi>Dauid,</hi> yea, had he sent to him for his judgement in the point, he would have held it expedient, but <hi>Nabal</hi> cannot endure that the man in his owne skinne should be touched. <hi>Shall I,</hi> saith <hi>Nabal?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Vse. </seg>
+                  </label> This serues to exhort rich men to make themselues <hi>Su<g ref="char:EOLhyphen"/>periours</hi> to others, chiefely in good workes; Greatnes is then most conspicuous,
+<note place="margin">Neh. 5.14.17.18.</note> when it holdes the fore-rancke in vertue renowned for euer be <hi>Nehemiah,</hi> who when he would in<g ref="char:EOLhyphen"/>duce others to Charity, <hi>He himselfe tooke not of the people the bread of the Gouernour; Hee himselfe would not that yeere lay cut his estate in purchasing,</hi>
+                  <note place="margin">Vena porta.</note>
+                  <hi>but maintained at his table an hun<g ref="char:EOLhyphen"/>dred and fifty of the Iewes.</hi> If the great wheeles of the Coun<g ref="char:EOLhyphen"/>trey doe not stirre in Charity, how shall the lesser mooue, if the prime veine of the body be stopt, what good blood can there be in the lesser veines? if the chiefe light of the firmament bee eclepsed in workes of mercy,
+<note place="margin">
+                     <hi>Si stomachus infirmus erit omnia meusbra inuentuntur infirma,</hi> Chry. in Mat. hom. 38. Plut.</note> what a darke sky will there bee besides? If the stomacke waxe feeble all the other members languish. Tenacity in great men is like the hearbe <hi>Sea-holme</hi> in the mouth of the Leader of the goats that puts all the flocke to a stand. Yet how commonly is it seene that many rich men for charges desire to be let loose like the Scape-goat in the Law, the Commons are brought forth only as the beasts for sacrifice. They are not Rich men for expences, but only for the right hand or the
+<pb n="47" facs="tcp:178330:7"/>vpper seat; if yee will they will bee Oracles of wit to per<g ref="char:EOLhyphen"/>swade others, or scourges of iron to enforce others, yee shall haue their letters or their warrants to constraine or distreine, but if yee pry too farre into their estates, how farre they must bee rated yee will bee blasted. <hi>Must they?</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Shall I?</head>
+               <p>
+                  <hi>Shall I?</hi>
+                  <note place="margin">
+                     <hi>Nil nisi Cecr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>pides.</hi> Iuv. <hi>Neseisme? scio te esse primo geni tum Diaboli.</hi> Euseb. eccl. histor. lib. 4. c. 14.</note>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>2</label> From hence further obserue that Greatnesse would bee eyed. Pride is oftentimes the Comrade of wealth, if men grow wealthy their eyes start out with fat<g ref="char:EOLhyphen"/>nesse. There is nothing then, but intimating of their state, and pedigree. <hi>Knowest thou not mee?</hi> said <hi>Marcion</hi> vnto <hi>Po<g ref="char:EOLhyphen"/>lycarpe;</hi> The man would faine bee knowen to bee some bo<g ref="char:EOLhyphen"/>dy, though the good old Father told him that hee knew him indeed, but it was for nothing but to bee the first begotten of the Deuill.
+<note place="margin">
+                     <hi>Manlius</hi> loc. com. tit. de calamit.</note> Many rich men loue to pride themselues in their greatnesse, and to be formidable to the world, to make the very mouing of their lips raise earth-quakes in the hearts of poore people. As the <hi>Lant-graue Fredericke</hi> daun<g ref="char:EOLhyphen"/>ted his enemies with the gingling of his spurre, so these en<g ref="char:EOLhyphen"/>deauour to make their inferiours appalled with the very sound of their names; they speake nothing but Mannours; in euery syllable, gesture of the body, cast of the eye, they conuey a secret insinuation of their thousands. <hi>Shall I saith Nabal?</hi> hee need not mention his house at <hi>Maon,</hi> nor his pastures at <hi>Carmell,</hi> nor his sheepe, nor his goats, nor his at<g ref="char:EOLhyphen"/>tendants and retinue; for this <hi>I</hi> pronounced with a paire of <hi>Nabals</hi> lips is a sufficient <hi>Interpreter</hi> of all the rest.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Vse. </seg>
+                  </label> This serues to humble pride in her basenesse; for can there bee any thing more ignominious then to be proud of dust-heapes? to swell for scutcheons? no, bee thankefull to God for your estates, and not disdeignfull to your Inferi<g ref="char:EOLhyphen"/>ours. For should yee neuer bee well but when yee are car<g ref="char:EOLhyphen"/>rying an Image of your owne greatnesse before you, as that diseased man did in <hi>Aristotle?</hi> or setting out your magnifi<g ref="char:EOLhyphen"/>cence to the world as Apothecaries doe their gally-pots? should yee be your owne heraldes to blason your armes? or
+<pb n="48" facs="tcp:178330:8"/>your owne Painters to draw out the pictures of your pow<g ref="char:EOLhyphen"/>er? that yee may bee bright Sparkes, will yee turne all o<g ref="char:EOLhyphen"/>thers into dead coales, cinders, ashes? that your impresses may seeme curi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us, will yee rase out the characters of all o<g ref="char:EOLhyphen"/>ther mens worth? will yee looke as if yee were the onely men of merit? and speake as if yee would be held to be the sole worthies of the times? Oh hee had need of a cleere eye that should see sufficiently the mischiefe of this practise.
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Superciliousnesse is euer rewarded with the contempt of the world. A proud man is his owne Idoll, and the worlds scorne. Mans nature can better endure any sinne in thee, then insolency. <hi>Paruipension,</hi> too meane an esteeme of a mans selfe hath beene held in <hi>Ethickes</hi> a defect; but arro<g ref="char:EOLhyphen"/>gancy hath euer beene held a grosse excesse. He may write all his true friends in the compasse of his nayle, that lookes vpon others as abjects, and holds the world at a distance. What two faire <hi>Kingdomes</hi> of <hi>Aragon,</hi> and <hi>Nauarre</hi> did <hi>Don Pedro de Atares</hi> his vnseasonable grauity loose him in scorning to speake with any man but when he pleased pre<g ref="char:EOLhyphen"/>tending that he was busie about matters of state,
+<note place="margin">Turquet.</note> when hee had none but his Barber trimming him; they therfore that would hunt for command by pride, goe out with a mastiffe to chase it away. Oh therefore let all looke to bee knowen of God, and not care too much to bee knowen of the world; to bee ambitious of this, is but a Worldlings quali<g ref="char:EOLhyphen"/>ty. <hi>Shall J saith Nabal? I</hi> with an haughtinesse.</p>
+            </div>
+            <div type="part">
+               <head>Bread, Water and Flesh.</head>
+               <p>Next Bread Water and Flesh with a poysing. Doth <hi>Na<g ref="char:EOLhyphen"/>bal</hi> sticke so much at Bread, Water, and a little flesh? Hee made a feast in his house like the Feast of a King;
+<note place="margin">Vers. 36.</note> surely then hee had more then bread,
+<note place="margin">Ibid.</note> and flesh; and his heart was merry within him that he was drunke, surely then hee had more then water. Is <hi>Nabal</hi> so free at a Feast, and doth hee sticke so much at a sew scantlings to bee bestowed vpon men in misery?</p>
+               <p>Then from hence obserue,
+<label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>
+                  </label> that any thing spent in chari<g ref="char:EOLhyphen"/>ty
+<pb n="49" facs="tcp:178330:8"/>with worldlings is a Burthen, seemes a great cost; though riot may deuoure pounds, yet almsdeeds must not haue a few pittances;
+<note place="margin">
+                     <hi>Peraldus Gu<g ref="char:EOLhyphen"/>losus expendi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> in piscibus vn<g ref="char:EOLhyphen"/>de viginti pau<g ref="char:EOLhyphen"/>peres satis ha<g ref="char:EOLhyphen"/>berent de pane. Nullum com<g ref="char:EOLhyphen"/>pendium, sed dispendium.</hi> Chrys. in orat. de mulie. &amp; pulchri. <hi>Potius dissipa<g ref="char:EOLhyphen"/>tio quam dis<g ref="char:EOLhyphen"/>pensatio.</hi> Luke 16.6. Amos 4.5.6.</note> the very fragments that fall from the table of surfet are held too much. An Epicure spends more in dressing of a fish, then would buy twenty poore men suffici<g ref="char:EOLhyphen"/>ent bread. Much is spent, but there is rather damage, then aduantage comes by it; there is rather a lauishing out of Gods blessings, then an orderly disposing of them. Many care not what they spend in excesse, but they weigh the ve<g ref="char:EOLhyphen"/>ry refuse bits they giue to the poore; profuse in one kind, penurious in another. <hi>Diues</hi> fares deliciously euery day, but grudges at the very <hi>Crums</hi> that fall from his table for <hi>La<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rus,</hi> yea his dogges shew more mercy then hee, in so much that a man would thinke the true hous-keepers were without, and the true Dogge within. Those Libertines in the 6. of <hi>Amos, Eat Calues out of the stalls, lye in beds of iuory, make them instruments of musicke</hi> like <hi>Dauid, drinke wine in bowles, anoynt themselues with the chiefe oyntments: But no man remembers the afflictions of Ioseph. Nabal</hi> here feasts like a Prince, but relieves the poore like a very <hi>Egeno. Bread, water, and flesh,</hi> then seeme much.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Vse. </seg>
+                  </label> This serves to reproue the vanity of these times, in which men are liberall in wast workes, parsimonious in charitable. <hi>They call them their Goods with which they doe no good,</hi>
+                  <note place="margin">
+                     <hi>Bona appellan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ex quibus nul<g ref="char:EOLhyphen"/>lus nisi ad ma<g ref="char:EOLhyphen"/>las res vsus est.</hi> Cyp. ep. 2. ad Donat.</note>
+                  <hi>but vse them to their owne evill purposes.</hi> There are many that will drinke whole Cellars dry over night, that will scarce be<g ref="char:EOLhyphen"/>stow a cup of small liquor vpon the poore in the morning; many that will cast downe handfulls of gold for a Banquet, that notwithstanding repine to give a few small peeces of silver in charity; that will build gorgeously, burnish curi<g ref="char:EOLhyphen"/>ously, furnish sumptuously, that vpon pride and bravery for <hi>Spanish</hi> heads, and <hi>French</hi> bodies, for sweet powders, sweet waters, new complexions, care not what they be<g ref="char:EOLhyphen"/>stow; yea, for suites, and quarrels, to lay a neighbour gas<g ref="char:EOLhyphen"/>ping at their feete, or to teare out the bowels of a <hi>Church<g ref="char:EOLhyphen"/>man,</hi> be it but for a shoo-latchet, or a title of the last Springs planting, care not how they cast away coyne; But when
+<pb n="50" facs="tcp:178330:9"/>they come to a point of charity, then they pawse and des<g ref="char:EOLhyphen"/>cant, yea, cease to be great men, a man would thinke they were decayed, and turned Bankrupts. But oh beloved, if any should be sicke of this disease here, I beseech you let your vaine expences touch you, never let God seeme to charge you. Let supersluity be abated, never let charity be restrained; for that's but a <hi>Nabals</hi> part, who feasts like a Prince, but in charity sticks at a little <hi>Bread, water, and flesh: shall I then take my Bread, water, and flesh?</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Which I have killed for my Shearers.</head>
+               <p>Now let vs come to <hi>Which I have killed for my Shearers,</hi> with an evasion.</p>
+               <p>From hence observe,
+<label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>
+                  </label> that the strength of the covetous mans excuse lies in his dependants; the state of the house must be vpheld, the honour of the Family maintained, ser<g ref="char:EOLhyphen"/>vants must be well provided for, and because these, there<g ref="char:EOLhyphen"/>fore none else.
+<note place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>i porcinam habuisse<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ani<g ref="char:EOLhyphen"/>mani, quid ali<g ref="char:EOLunhyphen"/>ud dicere po<g ref="char:EOLhyphen"/>tuisies.</hi> Basil. <hi>Digite facul<g ref="char:EOLhyphen"/>tatum.</hi>
+                  </note>
+                  <hi>If thou hadst the soule of a Swine what could'st thou resolve on more?</hi> These are kinde to all them within the compasse of the coate. Servants I know are <hi>singers</hi> to bring in our <hi>wealth,</hi> therefore not to sustaine these, were to lame our selves in our estates; but to provide onely for these, is to thinke never to have neede of <hi>Gods</hi> helpe, but onely of the helpe of the Family. I know the maine Article of their faith lay in,
+<note place="margin">8 Tim. 5.8.</note> 1. <hi>Timoth.</hi> that <hi>Jf any man provide not for his owne houshold, he is worse then an Infidell;</hi> and therefore to shunne to be <hi>Infidels</hi> in one kinde, they care not to be as ill, as <hi>A<g ref="char:EOLhyphen"/>thiests</hi> in another kinde; their charity is made of the iust size of their family, they poyse out their provision accor<g ref="char:EOLhyphen"/>ding to the counter-weight of the houshold, even to <hi>Arith<g ref="char:EOLhyphen"/>meticall proportion;</hi> with alacrity there comes little else from them. I wonder why Porters in so many places are pro<g ref="char:EOLhyphen"/>vided, are they in all places onely for due state? or to keepe out theeves? no, I feare in some places they are to keepe out the poore, that <hi>Nabal</hi> and his <hi>Shearers</hi> might be merry together.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋse. </seg>
+                  </label> This serves to exhort great men not to list their charity
+<pb n="51" facs="tcp:178330:9"/>to them onely that weare the livery, and rise vp and call them Master. For art thou good onely to them of thy own houshold? I see no charity in this, for God ha'mercy gaine, or service, or state, for else even these <hi>Shearers</hi> might goe seeke their <hi>Bread, water, and flesh,</hi> as well as others. So of<g ref="char:EOLhyphen"/>ten as I heare men to be of generous mindes to their com<g ref="char:EOLhyphen"/>panies, followers, and I heare no further, I count it rather a matter of mockage, then of praise; for it is not conscience but some sinister respects that draws them to this. Thou may'st be a niggard then for all thy domesticall bounty, na<g ref="char:EOLhyphen"/>ture wishes thee to respect these, policie wishes thee to ten<g ref="char:EOLhyphen"/>der these, &amp; livest thou by no higher principles then of Na<g ref="char:EOLhyphen"/>ture, and policie? then thou art no deeper Scholler then one of <hi>Nabals</hi> forme, for he can spell charity heere to none, but his owne <hi>Shearers. Shall I then take my bread, water, and flesh, which I have killed for my Shearers?</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>And give it vnto men whom I know not whence they be.</head>
+               <p>Lastly, <hi>And give it vnto men whom I know not whence they be,</hi> with a cleanly discarding.</p>
+               <p>From hence observe,
+<label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>
+                  </label> that the poore are thrust out of the Worldlings charge; they are strangers, and therefore what haue they to doe to take care of them?
+<note place="margin">Pro. 14.7.</note>
+                  <hi>The friends of the Rich are many, but the poore is hated even of his owne neighbour:</hi> Many a poore man as well knowne at <hi>Turkey,</hi> as at the next Towne, perhaps at the next threshold. Ye may see what great acquaintance they take of them by that in the second of <hi>Iames, Depart in peace;</hi> the first word they speak to them,
+<note place="margin">2 Iames 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> is, Farewell, are they not Strangers thinke ye, that can get no other greeting?
+<note place="margin">Erasm.</note> are these willing to entertaine any friend<g ref="char:EOLhyphen"/>ship with the poore? no, as the Image of <hi>Minerva</hi> in <hi>Chios,</hi> looked frowningly on them that came towards it, smiling<g ref="char:EOLhyphen"/>ly on them that went away; so these Rich men have no<g ref="char:EOLhyphen"/>thing but the frowne for them that come to them, the smooth brow they bestow on them that are ready to turne their backes; their estates are their fee-simple, and they wonder such Strangers will come to claime any thing out
+<pb n="52" facs="tcp:178330:10"/>of them.
+<note place="margin">
+                     <hi>Possident ad hoc tantum, vt alters possi<g ref="char:EOLhyphen"/>dere non liceat. pecunta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>suam dicunt quam velut alienam domi custod<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>unt.</hi> Cyp. cp. 2 <hi>Vag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> potius ha<g ref="char:EOLhyphen"/>bent terras quam habitant</hi> Pomp Mela.</note>
+                  <hi>They possesse their riches for no other end, but that others might get no possession out of them. They call it their mo<g ref="char:EOLhyphen"/>ney, and yet they keepe it vnder locke and key at home;</hi> as if they had no power of it themselves, but were onely intrusted with it for others. As it is said of the <hi>Blemmyes</hi> and <hi>Gam<g ref="char:EOLhyphen"/>phasanes,</hi> and other people in the Island <hi>Cyrenaick</hi> in the lesser <hi>Affrick</hi> that <hi>They rather had land, then dwelt in it;</hi> so these rather have riches, then make any good vse of them. I thinke they are some <hi>Brownists,</hi> they like not the <hi>Lords prayer, Pater noster, Our Father;</hi> or howsoeuer not that peti<g ref="char:EOLhyphen"/>tion of it, <hi>Giue vs this day our daly bread,</hi> no they would ap<g ref="char:EOLhyphen"/>propriate all vnto themselues; their riches haue not beene distilled through the Limbecke of their owne paines and prouidence, now to bee sprinckled about in Charity; no, this they count the lavishing away of their costly water; call to them for an almes, and ye are forging a title against their demeanes; goe about to open their hands, and they are ready to cry fellony; they stand ouer their riches, like harpyes ouer their preyes, not one to get a morsell out of them but themselues; they are providing for a yong strip<g ref="char:EOLhyphen"/>ling perhaps, and him they know, but as for this sordid crew, <hi>They know not whence they are.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Vse. </seg>
+                  </label> This serues to cast <hi>Nabal</hi> in his title, to bring in cleere euidence, that he is not the sole proprietary of his goods, for God hath reserved (as it were) a standing rent of euery mans estate for the poore.
+<note place="margin">Pro. 6.26. Eccles. 11.2.</note>
+                  <hi>Let thy fountaine flow foorth, &amp; thy riuers be in the midst of the streets,</hi> there must not bee then a private pond. <hi>Giue a portion to seuen, and likewise to eight.</hi> A man must not make himselfe the peculiar almes<g ref="char:EOLhyphen"/>man.
+<note place="margin">Iob 31.17. Acts 9.39. Luke 16.23. Thom. Aquin. Tho Aquin. 22. ae q. 117. art 5.</note> These are precepts for charity, there are likewise pre<g ref="char:EOLhyphen"/>cedents, as of <hi>Iob, that eate not his morsels alone,</hi> of <hi>Dorcas that prouided coates and garments.</hi> And what needes more, is not <hi>Heauen</hi> called <hi>Abrahams</hi> bosom? that is the bosome of <hi>A<g ref="char:EOLhyphen"/>braham</hi> the Almes-giver. Liberalitie is one of the potenti<g ref="char:EOLhyphen"/>all parts of justice, as if so bee that those that were able, and were not charitable, were injurious. <hi>Rich</hi> men are not their owne men, no, they are all debters, although not for a
+<pb n="53" facs="tcp:178330:10"/>
+                  <hi>legall,</hi> yet for a <hi>Morral</hi> de bt. <hi>Hide not thy face from thy owne flesh,</hi> saith the Prophet; though not thy owne Gentry, yet thy owne flesh,
+<note place="margin">Es. 51.</note> taken out of the same slime-heape with thy selfe; thou maiest eate of delicater fare, weare costlier ray<g ref="char:EOLhyphen"/>ments, have one day a statelyer tombe, proue a daintier morsell for wormes-meate, but set these things aside, they, and thou are cousin-germanes; seeing then there is so little difference betwixt rich flesh, and poore flesh, I pray take better acquaintance one of another, <hi>Know whence they are,</hi> and the rather, because riches (whereby many men chal<g ref="char:EOLhyphen"/>lenge such high preheminence) are but transitory.
+<note place="margin">Prou. 23.5.</note>
+                  <hi>Wilt thou set thy eyes vpon that which is not, riches may take them wings and flye away as the Eagle.</hi> How many possesse those lands that wealthy men were once owners of? I know not what better assurance yee have of your felicitie, then they had; I thinke yee hold your lands by the same tenure they did; Therefore vse your estates, as God hath appointed, for feare one judgement of God or other take vp your lands, as for<g ref="char:EOLhyphen"/>feitures; respect these strangers, for feare strangers come to plucke downe your armes, and to turne the keyes of your doores vpon you. Besides, why will yee not <hi>Know</hi> them whom Christ will assuredly <hi>Know?</hi> yea, not <hi>Know you,</hi> if ye take no notice of them; for remember I beseech you in the midst of your greatnesse, sublimitie, splendour vpon earth, the finall sentence, &amp; heart cleauing doome of world<g ref="char:EOLhyphen"/>lings, <hi>Depart from mee ye cursed into euerlasting fire,</hi>
+                  <note place="margin">Matth. 25.</note>
+                  <hi>For I was an hungred, &amp;c,</hi> Oh therefore though something for po<g ref="char:EOLhyphen"/>sterity, yet something for charity; though something for your owne sake, yet something for Gods sake, pitty the poore, cherish the poore, tender them as your owne limbes, honour them as Christs members; close not the eye, deafe not the eare, dead not the heart, turne not the backe vpon them; hold not them as strangers, with whom yee are not acquainted, vse them not as persons <hi>whom yee know not whence they are,</hi> for that were like <hi>Nabal</hi> here, <hi>Shall I then take my Bread, and my Water, and my Flesh that J haue killed for my shearers, and giue it unto men whom J know not whence they be?</hi>
+               </p>
+               <pb n="54" facs="tcp:178330:11"/>
+               <p> Thus have I shewne vnto you the portraiture of <hi>Nabal;</hi> what fitter picture to be presented to the eyes of the world? that if people detest his name, they might take heed of the reflexe of his manners. But when I see many count their goods seuerals, which take as much acquaintance of stran<g ref="char:EOLhyphen"/>gers as the needy, which bring out a dish of checkes to the poore, which giue nothing, or nothing but with the misers eye set vpon it, how doe I instantly thinke on <hi>Nabal?</hi> for thus hee looked,
+<note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>sic vultus, sic or<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ferebat.</note> thus hee spake, these were his purposes, these his practises. <hi>Nabal</hi> is not so hard a patterne then, but many are contented to limme out their liues by him; which count his resolution the lustre of true wisedome, yea, a beame of plausible Divinity; oh the miseries of the poore? oh the mercilesnesse of the rich <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an inhospitableage, costive times; the hand of bounty is cramped, the breastes of cha<g ref="char:EOLhyphen"/>rity are dryed vp, the complaint of the Prophet may euen bee taken vp.
+<note place="margin">Hosea. 4.2. —<hi>sunt silicis circum praecor<g ref="char:EOLhyphen"/>dia vena Commun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a possidentes propria faci<g ref="char:EOLhyphen"/>unt occupando</hi> Basil. ser 1. <hi>in d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>vit. auaros.</hi>
+                  </note>
+                  <hi>There is no mercy in the Land; there are veines of flint about mens heart strings. Men take possession of those goods that are common, and make them their owne by vsurpation,</hi> much like them that proclaime themselues heyres to the goods of Widdowes and Orphans. Not such a plentifull Nation vnder heauen, not such a penurious Nation vnder heauen. Our Kingdome was once an almes-house, and now it is turned into a <hi>Chuffes</hi> hutch as it were; wealth that was once a nource, now beates those children shee was wont to foster; it hath giuen ouer the stewards office, and is tur<g ref="char:EOLhyphen"/>ned Treasurer; it hath left the house at the <hi>Pelicane,</hi> and is come to dwell at the <hi>Dogge;</hi> it is good for nothing but to gorge it selfe like him in the Gospel.
+<note place="margin">Luke 12.</note>
+                  <hi>Thou hast much goods layd vp for many yeeres.</hi> What then, goe feast the hungry? goe perfume the streetes with the workes of mercy, no, <hi>Eate,</hi>
+                  <note place="margin">
+                     <hi>Lucull<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> cum Lucull<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi> Plut.</note>
+                  <hi>drinke, and be merry:</hi> What the rich man onely with himselfe? will he invite onely his owne throate to his dain<g ref="char:EOLhyphen"/>ties? hee is much at his cost, a <hi>Rich</hi> man sits downe, and a <hi>Churle</hi> rise vp, yet these are the guises, and fashions of the times; <hi>Nabal</hi> counts all intruders but his owne company at his bourd. Did our fore-fathers thus looke for honor? did
+<pb n="55" facs="tcp:178330:11"/>they thus eternize their names vpon earth? were the poore such eye-sores to them? tooke they so little acquaintance of them? no they sought them out, they brought them home, they fed them as c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eerefully as their owne children, they gaue them as kind welcome, as if they had beene their solemne guests; they mewed not vp themselues in a narrow parlour, as if they had beene too neat pieces for a meane mans eye to behold, or a beggers lippes to breath vpon, but they came out to them, were familiar with them, filled their bowels with sustenance, their backes with raiment, their hands with rewards, and their hearts with gladnesse; they provided portions for their children, they built hospitalls for them. A <hi>Nabal</hi> was then as hatefull a creature to bee discerned, as a Crocodile, they would haue thought to haue beene in hell before Shroue-tide, if they had not feasted the poore at Christmas, and made them honour Christs birth, for the tastes of mercy they then found. Oh that compas<g ref="char:EOLhyphen"/>sion towards the poore might thus be streaming in her full tide, that charitie could be so generally seene with her bas<g ref="char:EOLhyphen"/>ket by her side: I would then thinke part of the golden age were returned. But as the <hi>Turks</hi> vse to say in the midst of their solemne griefes, <hi>Mustapha is dead,</hi>
+                  <note place="margin">Knolles in the life of <hi>Solyman</hi> the Magnifi<g ref="char:EOLhyphen"/>cent.</note>
+                  <hi>Mustapha</hi> the flower of chiualry. So we may say our old <hi>Benefactors</hi> are gone, our old <hi>Benefactors,</hi> the Fosterfathers of the distressed; good workes are now by many turned into good clothes, people care not to have their tables furnished, but their Wardrobes, they thinke people are blessed enough, if they can see them in crimson; or almes-deedes are turned into purchases, they will loose their euidence in heauen, to be<g ref="char:EOLhyphen"/>come owners of other mens euidence; they will sell all the poore, to buy out another neighbour; one heire makes many shut vppe their handes to a whole Countrey; Yea, in these griping times, how many doe rather devoure the poore then sustayne them? mercilesse wretches which haue the swe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t of their browes, and the strength of their loynes euen at their owne price, which keepe away their Commons from them that were ditched
+<pb n="56" facs="tcp:178330:12"/>in with the Deuils spade, which pare not their nayles, re<g ref="char:EOLhyphen"/>straine not their sharking officers from tearing of skin and flesh from the backes of their poore Tenants by cruell fines, and amerciments; Thus yee see how charity is turned out at the backe doore; and pride, and insatiablenesse, and oppression come to domincere in the house. But oh if any here should be thus destitute of charity, or haue none but that woluish charity in them, if they be not quite incor<g ref="char:EOLhyphen"/>porated into <hi>Mammon,</hi> let bowels of compassion stirre in them; let them not loue that earth that is appointed to bee trampled on, nor set their hearts on that wealth that is not worth the least joynt of their bodies; let them not hate those poore whom Christ ownes, nor grieue to giue them an almes to whom hee gaue his blood; let them shunne all sinnes, but especially abhorre to be vncharitable; Let them blesse God that they themselues are aduanced, and in the midst of their opulency and affluency let them remember the friends of their gracious Promoter; oh for miseries grones sake, for Christs Iesus precepts, patterne, blood sake let them not count their estates (though neuer so iustly got<g ref="char:EOLhyphen"/>ten) pure, but troubled with a kind of infection without be<g ref="char:EOLhyphen"/>ing clensed by almsdeeds,
+<note place="margin">Luke 11.41.</note> for <hi>Giue almes and all things shall be cleane vnto you;</hi> oh let them not put their almes amongst their desperate debts,
+<note place="margin">Eccles 11.1.</note> of which they haue seene in all likely<g ref="char:EOLhyphen"/>hood their last comfort; no, <hi>Cast thy Bread vpon the waters, and after many yeares thou shalt find it againe;</hi> oh let them not hold theirselues to haue carued well that meale to all their guests wherein the poore haue not receiued their portions,
+<note place="margin">Nehem. 8.10.</note> for <hi>Eat of the fat, and drinke of the sweet and send some part to them,</hi>
+                  <note place="margin">Tho. Aq.</note>
+                  <hi>for whom none is prouided.</hi> Let them know that the kee<g ref="char:EOLhyphen"/>ping of money is the rest of it, and the communicating of it is the motion of it; now money is not fetched out of the veines of the earth to lay in a corner, but to be communica<g ref="char:EOLhyphen"/>ted. The <hi>Moralists</hi> make honours, and riches adminicles vnto vertue; let them so bee vsed, and not as obstacles to hinder them from all goodnesse; to shew that they affect not the world, but haue renounced it, let them scatter abroad the
+<pb n="57" facs="tcp:178330:12"/>treasures of the same: Oh communicate, oh distribute; con<g ref="char:EOLhyphen"/>sider your ability to doe good, consider the heauy necessities of the times; let your charity run in a free current amongst the distressed, and scluse not vp all your meanes within the channell of your owne family. For that were like <hi>Nabal</hi> here, <hi>Shall I then, &amp;c.</hi>
+               </p>
+               <p>Thus haue I spoken in generall for charity, giue me leaue to speake something vpon the same subject vnto you the worthy citizens of this renowned incorporation, to whom I am particularly called. Farre hence haue I heard your Cit<g ref="char:EOLhyphen"/>ty commended for a place of ciuill gouernment, make it fa<g ref="char:EOLhyphen"/>mous in all places, for a place of charitable gouernment; As ye are an incorporation, a body, so I beseech you count not the poore, dead members. The times are already sharpe, but this is but the chilling of an ague, the strong fit is still behind; trading hath beene a long time dead, the prices of all graines are excessiuely deere, alas poore soules, how shall they be able to wrestle long with these miseries? if yee do not speedily helpe to releeue them, yee may ere long helpe to bury them. Your vigilancy I trust sleepes not, your cha<g ref="char:EOLhyphen"/>rity I hope is in its due feruour; your praise is in the gates for your mercy abroad, we the children of a mother lately distressed blesse you that <hi>Alma mater Academia,</hi> our renow<g ref="char:EOLhyphen"/>ned Vniuersity, or howsoeuer the Towne her Hostesse drawes her breath the more comfortably for your benefi<g ref="char:EOLhyphen"/>cence; it was an offering indeed of a <hi>Faire eye,</hi> and the more acceptable because free; Well if the hearing of misery with the eare were thē so forcible, let the seeing of it with the ey more preuaile, be most sensible of the paines in your owne bosomes; know that that gouernment is most praise wor<g ref="char:EOLhyphen"/>thy, by which sighes are remoued from the brests of the poore. In publicke therefore let your chiefest communica<g ref="char:EOLhyphen"/>tions, and consultations be for the poore; store their grana<g ref="char:EOLhyphen"/>ties, appoint solemne collections for them, heare their plaints with patience, visit their distressed corners, cast a Ci<g ref="char:EOLhyphen"/>tie-liuery vpo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> backes, vse your best wits, and counsels
+<pb n="58" facs="tcp:178330:13"/>to remedy their griefes, to preserue their liues; your Citie may prosper the better many yeares for one yeares charity to the poore. And whereas here are amongst you many pri<g ref="char:EOLhyphen"/>uate merchants, tradesmen, and Artificers that from some hundreds, are risen to an estate of ten, twenty, thirty thou<g ref="char:EOLhyphen"/>sand pounds,
+<note place="margin">
+                     <hi>Educ diuitias compedibus v<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ctas.</hi> Basil. <hi>Diuitem te sentiant paupe<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>es.</hi> Cyp.</note> let not these mighty estates now bee wedged vp in a corner; no bring forth those riches that are bound as it were fetters, and triumph ouer them as slaues; let the poore feele yee to be rich; take vp these poore as commodi<g ref="char:EOLhyphen"/>ties: yea haue trafficked much beyond Seas, trade amongst these at home; to get aduantage yee haue trusted men with much, let me entreat you to trust God with part. And oh yee which haue set your faces (in a more particular manner) towards <hi>Sion, which haue a name to liue,</hi> seeme not you to haue renounced the delights of the world, but not the de<g ref="char:EOLhyphen"/>sires; shal your hands be shut &amp; yet are your hearts opened? will yee honour Christ with a Psalme, or a Chapter, or a prayer in the <hi>parlour,</hi> &amp; yet driue him away from the doore with a staffe, or a frowne? Yee damne a Drunkard, an A<g ref="char:EOLhyphen"/>dulterer, a Sabboth-breaker, a Blasphemer, and yee doe well, but will yee magnifie a Worldling? where doe yee euer finde S. <hi>Nabal?</hi> well, bee not ghosts of profession, blisters of Religion; I honour your profession so it bee as full of charity, as piety. But otherwise remember that of the Apostle,
+<note place="margin">1. Ioh 3.17.</note>
+                  <hi>Whosoeuer hath this worlds goods, and seeth his brother in want, and shutteth vp his bowels of compassion, how dwelleth the loue of God in him?</hi>
+                  <note place="margin">Hos. 6.6.</note>
+                  <hi>I will haue mercy and not sacrifice.</hi>
+                  <note place="margin">1. Iames 27.</note>
+                  <hi>Pure religion, and vndefiled before God the Father is this, to visit the Fatherlesse and Widowes in their aduersity.</hi> Let no man say then I haue Wife and Children to maine<g ref="char:EOLhyphen"/>taine (as if thy cares were onely to bee restrained to these) remember thou hast also a <hi>Iesus.</hi>
+                  <note place="margin">
+                     <hi>Nemo dicat, habeo vx<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rem, habeo liber<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s; habes Iesum.</hi> Chrysost.</note> Shew thy selfe a mysticall member of the Church, aswell as a prouident Father of a family. Well, one and other now is your triall whereby men may see whether yee belong to <hi>God,</hi> or <hi>Mammon;</hi>
+                  <note place="margin">1 Tim. 6.19.</note> now the time to <hi>Lay vp a good Foundation a<g ref="char:EOLhyphen"/>gainst
+<pb n="59" facs="tcp:178330:13"/>the time to come.</hi> Looke not onely therefore on your owne families, but on the distressed housholds; as yee want not meanes, so want not minds to doe good; seuer out something for the hungry and thirsty, designe not all your meanes and m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>intenance for your owne throats, for that were to bee <hi>Nabals</hi> Professours: <hi>Shall I then take my Bread, &amp;c.</hi>
+               </p>
+               <p>Next seeing the Sessions are now to beginne, let mee entreate all you that haue here any interest in them, to take some prouident course for the poore, let them taste of your charity aswell as your justice; to hang vp felons, and not to prouide for maintenance, is almost to force theeues to the gallowes; the poore are at an exigent, if they heare not of some speedy intendments for their comfort (I tremble to speake it) they are ready to lay their blood to your charge: whom haue they heere next vnder God but your selues to betake them<g ref="char:EOLhyphen"/>selues to for refuge in their extremities? Oh therefore whatsoeuer yee resolue on else, decree something for charity; count it no dishonour to this meeting to haue it stiled a <hi>Sessions</hi> of charity, though they meet with churlishnesse elsewhere, yet I beseech you, let them not find <hi>Nabal</hi> vpon the <hi>Bench.</hi>
+               </p>
+               <p>Further, least (as <hi>Themistius</hi> said of the slatterers in the Court of <hi>Iovian</hi>) I should seeme <hi>to feare the purple Robes, more then the wrath of God,</hi> giue mee leaue to speake some<g ref="char:EOLhyphen"/>thing vnto you the <hi>Knights</hi> and <hi>Gentlemen</hi> that in these hard times are resorted into the Citie;
+<note place="margin">
+                     <hi>Purpuram ma<g ref="char:EOLhyphen"/>gis quam De<g ref="char:EOLhyphen"/>um coler<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi> Niceph. Call. lib. 10. c. 42.</note> as yee haue most meanes, so shew not yee least mercy. That charity therefore that yee are to enjoyne your neighbours in the Countrey to shew, first make it exemplary in your selues; if plenty stop her current, how will the shallow brookes afford a few drops? yee left behind you good orders in your Countrey, why did yee not stay to see them executed, and to giue life to them by your presidents of mercy; His Maiesty (whom God for euer blesse) out of his pious dis<g ref="char:EOLhyphen"/>position,
+<pb n="60" facs="tcp:178330:14"/>sincere compassion, and pectorall affection to the present distresses commaunded your presence in the Countrey, why then haue yee oppugned his Royall pleasure? will yee vilifie his proclamations, and edicts, as if they were but matters of forme? would yee count it a dishonour to you now to bee thrust out of his Com<g ref="char:EOLhyphen"/>mission? thinke then what a dishonour yee offer him, thus to put a <hi>Braue</hi> vpon his <hi>Order.</hi> Giue me leaue to discharge my conscience towardes my God and my King. I will not speake what I could concerning this, yet thus much I must tell you, that if you stay heere long, yee will hazard to loose that which is many great men<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Paradise,</hi> your honour in your Countrey. <hi>Should such a man as I flee?</hi>
+                  <note place="margin">Neh. 6.11<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> layd <hi>Nehemiah;</hi> so should such men as you, now haue forsaken your Countrey? There are some Gentlemen I confesse (for whom God be pray<g ref="char:EOLhyphen"/>sed, and their names euer honoured) that haue kept their houses, and maintained an Odour of Charitie at their thresholds, but as for you (I must speake truth in this place, and at this time) yee seeme to feele too much of a deere yeere, yee are afraid of your Christmas boxe; ye haue fledde into the fortified places, as if there were an invasion in the land; and seeme to haue left off to bee true Countrey-men,
+<note place="margin">Turqe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t.</note> and to bee turned new-created <hi>Citizens;</hi> inso much that as <hi>Oviedo</hi> for the great confluence of <hi>Bishops</hi> thither in the time of the <hi>Mores</hi> Conquests in <hi>Spaine,</hi> was called the <hi>Citty of Bishops,</hi> so this Citty will hazard to lose the name, and be called the <hi>Citty of Knights and Gentlemen;</hi> ye are left out of the <hi>Charter,</hi> and yet ye seeme to bee of the <hi>Body politique.</hi> Heere ye take vp your mansions, and vse your houses in the Countrey, but as <hi>Pallaces</hi> of plea<g ref="char:EOLhyphen"/>sure. But one time in the yeare to doe good, but one yeere in twenty, and yee are <hi>Non residents</hi> from your places. If yee doe any good here, yee doe it but like a <hi>Minister</hi> that leaueth his owne Cure, to goe feede other mens flockes; your company heere is neither desired, nor
+<pb n="61" facs="tcp:178330:14"/>needed. If yee have done any good where yee should, it is but as a dramme to that pound yee ought to haue ex<g ref="char:EOLhyphen"/>pended in such a scarcity. Oh that ye heard the lamen<g ref="char:EOLhyphen"/>table cryes, and bitter exclamations of the poore against you, they say yee preferre your hawkes, and horses, and hounds before them; for thirty poundes for an hawke, forty poundes for an horse, an hundred poundes for houndes, and though these dye within a moneth af<g ref="char:EOLhyphen"/>ter, yee thinke it stands not with generous mindes to grieue for the losse of them, but there is no such boun<g ref="char:EOLhyphen"/>tie and freenesse to the poore; the Hawke is sed whilest the poore euen famish, the Horse pampered whilest the poore euen pine, the houndes haue their set provision, whilest the delicatest fare many poore haue, is but course bread, and the strongest liquor, faire water; a pittifull thing, when birds, and beastes, and dogges, are preferred before Christian soules. I condemne not your lawfull pleasures, but I condemne those pleasures that turne Hos<g ref="char:EOLhyphen"/>pitality out of dores. Ponder vpon these things, and if your hearts be not of flint, and all the quicke flesh in your bosoms turned into Adamant, I trust they will dissolue into pitty; for consider in your selues, is this to bee <hi>Common-wealths<g ref="char:EOLhyphen"/>men,</hi> no Private wealths-men, Christians? no Newters. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h therefore let these advertisements be as a <hi>Habeas Cor<g ref="char:EOLhyphen"/>pus,</hi> to remooue you to your proper dwellings; and goe not thither, I humbly beseech you, onely to shew your foreheades, but your mercy to helpe the helpelesse, to suc<g ref="char:EOLhyphen"/>cour the succourlesse, to disperse abroad your <hi>Bread, Wa<g ref="char:EOLhyphen"/>ter, and Flesh,</hi> and not to serve it in, only to your owne tables, for that were to bee <hi>Nabals housekeepers. Shall I then</hi> (sayth <hi>Nabal) take my Bread, Water, and Flesh, which I haue killed for my Shearers, and giue it vnto men, whom <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> know not whence they bee?</hi>
+               </p>
+               <p>And because <hi>Salomons</hi> Wife Woman not onely <hi>lifted vp her hand to the distaffe,
+<note place="margin">Prov. 31.</note> but likewise stretched <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut her hand to the needy,</hi> Giue mee leaue to exhort, that if the Ma<g ref="char:EOLhyphen"/>ster
+<pb n="62" facs="tcp:178330:15"/>should be <hi>Nabal,</hi> yet that the <hi>Mistresse</hi> bee <hi>Abi<g ref="char:EOLhyphen"/>gal</hi> to tell <hi>Nabal</hi> of his Churlishnesse, and by her discreetest and powerfullest perswasions, and inducements, to seeke to reclayme him; howsoeuer to preuent Gods heauy curses vpon the family, let her goe foorth to men in misery with her bottels of milke, her parched corne, her frayles of ray<g ref="char:EOLhyphen"/>sins and figges: the Wife indeed hath not power to dis<g ref="char:EOLhyphen"/>pose of her husbands estate at her pleasure, but for true Charity shee hath, why else are women in Scripture ex<g ref="char:EOLhyphen"/>horted to be Charitable?</p>
+               <p>And you my reuerend brethren of the <hi>Clergy,</hi> if euer yee would have your wordes like <hi>Apples of gold set vp<g ref="char:EOLhyphen"/>on Pictures of siluer,</hi> know what is <hi>a word in due season;</hi> shew ye to the World miseries, naked armes, and bring foorth hunger, ready to eate her owne flesh; cause the cheekes of couetousnesse to blush, and the heart of par<g ref="char:EOLhyphen"/>simony to chinke in the bosome; by your most preg<g ref="char:EOLhyphen"/>nant motives, and prevalent charmes, endeavour to raise vp a race of Charity in the World; that so if people should remaine inflexible, incorrigible, yet as his Majestie sayd (after his Pious Orders given for the reliefe of the poore, if they were not put in execution) <hi>his Throne should bee Innocent,</hi> so the <hi>Pulpit</hi> may bee innocent. What should wee doe now filling the eares of the people with our sublimated conceptions, <hi>Seraphicall</hi> subtilties? A<g ref="char:EOLhyphen"/>las, they have need of mercy. In these distressefull times therefore, what a sweete Odour is the sent of Chari<g ref="char:EOLhyphen"/>ty out of our Pulpits?
+<note place="margin">Turquet in the life of Al<g ref="char:EOLhyphen"/>phonso the Noble.</note>
+                  <hi>Roderigo de Ximenes</hi> by prea<g ref="char:EOLhyphen"/>ching of Sermons of Charity in such a great scarcity, was reverenced of the people as an Angel of God, and so honoured by <hi>Alphonso,</hi> that hee bestowed vpon him the <hi>Arch-Bishopricke</hi> of <hi>Toledo,</hi> worth above two hundred thousand Crownes by the yeere; so by such kind of Do<g ref="char:EOLhyphen"/>ctrines wee shall get reverence vpon earth, honour in Heauen; and though our labours should not take place with men,
+<note place="margin">Es. 49.4.</note> sure we are, <hi>Our labour shall be with the Lord.</hi>
+               </p>
+               <pb n="63" facs="tcp:178330:15"/>
+               <p> Lastly, to speake vnto you the distressed soules of the times, I wish you comfort from Heauen, pa<g ref="char:EOLhyphen"/>tience vppon earth; though grace cannot keepe you from beeing insensible of these miseries, yet let it keepe you from being impatient; it is your time of triall, Oh blaspheme not God to his face, but with all meekenesse, and humble lowly submission, yeeld your selues vnto Gods chastisement, endure a kind of dry Martyrdome. And as I wish you patience towards Gods chastisement, so to<g ref="char:EOLhyphen"/>wardes mans churlishnesse; though men should bee o<g ref="char:EOLhyphen"/>pen-mouthed to reproch, and close-fingered to releeue you, yet lift not vp an arme of revenge; no, I beseech you by the peace of your Countrey, and by the honour o your profession, that yee fall out into no rash, precipitate, tu<g ref="char:EOLhyphen"/>multuous rebellious courses. Remember, that <hi>Dauid</hi> beeing denied reliefe at <hi>Nabals</hi> hand, at first hee seemed irritated, incensed; yea he vowed ruine, euen to rippe vp the bowels of the Churle, to make his house a sham<g ref="char:EOLhyphen"/>bles, but that which Rage resolues on, Grace repents of; at last how doeth hee honour God, and blesse the instrument that stayed him from that bloody purpose?
+<note place="margin">1. Sam. 25.32, 33.</note>
+                  <hi>Blessed be the Lord God of Israel, which sent thee this day to mee. And blessed be thy aduise, blessed bee thou which hast kept mee this day from comming to shedde blood, and from auenging my selfe with my owne hand.</hi>
+               </p>
+               <p>Magnifie not Worldlings therefore as <hi>Worthies</hi> (no pittie it is such painted postes should bee stooped vn<g ref="char:EOLhyphen"/>to) nor bee not your owne carvers of satisfaction from them; Let euen Churles liue to their greater igno<g ref="char:EOLhyphen"/>miny, damnation; Vengeance in God were just, but in you barbarous, and inhumane; Rebellion is the fruit of vnregenerate nature; Commend therefore your fainting soules vnto God in silence, rather then force releefe; the poore mans weapon is his tongue, not his pike; though they may be guilty of hard heartednesse, merciles<g ref="char:EOLhyphen"/>nesse, yet be not ye guilty of blood.</p>
+               <pb n="64" facs="tcp:178330:16"/>
+               <p> And now Lord, bow thou the hearts of people vn<g ref="char:EOLhyphen"/>to Charitie, melt them into compassion, let them not bee ashamed of Christ, hungry, and naked, but as they looke for Heaven, so let them lay vp treasures for their selues in Heauen, and that for his sake that pur<g ref="char:EOLhyphen"/>chased Heauen with the price of his owne blood, euen Iesus Christ the righteous. To whom with thee O Father, and the Blessed Spirit, bee ascri<g ref="char:EOLhyphen"/>bed, all Honour, Glory, Praise, Power, might, Maiestie, and Dominion, from this time forth for euermore, Amen.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
